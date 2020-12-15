@@ -6,8 +6,8 @@
 このアプリでは深層学習の技術を用いており、画家の作風を学習させて変換ネットワークを構築しています。
 
 ## 開発方法
-画風変換ネットワークの学習にKerasを用いた。
-また、Androidでネットワークを実行するためにKerasのモデルをTensorflowの.pb形式に変換した。
+画風変換ネットワークの学習にKerasを用いた。  
+また、Androidでネットワークを実行するためにKerasのモデルをTensorflowの.pb形式に変換した。  
 Androidでのネットワーク実行にTensorflowInferenceInterfaceを用いた。
 
 ## 実行例
