@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Artistic Converter</string>
+    <string name="transfer_button">Transfer</string>
+    <string name="save_button">Save</string>
+    <string name="camera_button">Take Picture</string>
+    <string name="gallery_button">Gallery</string>
+    <string name="description">camera picture</string>
+    <string-array name="list">
+        <item>wave_crop</item>
+        <item>picabia_udnie</item>
+        <item>monet</item>
+        <item>picasso</item>
+        <item>munch</item>
+    </string-array>
+</resources>

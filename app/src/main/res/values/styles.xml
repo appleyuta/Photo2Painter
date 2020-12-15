@@ -1,0 +1,27 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:actionBarStyle">@style/actionBar</item>
+        <item name="actionBarStyle">@style/actionBar</item>
+    </style>
+
+    <style name="actionBar" parent="Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@drawable/actionbar_background</item>
+        <item name="background">@drawable/actionbar_background</item>
+        <item name="titleTextStyle">@style/titleTextStyle</item>
+        <item name="android:backgroundStacked">@android:color/white</item>
+    </style>
+
+    <style name="titleTextStyle" parent="TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <!-- タイトルバーの文字色 -->
+        <item name="android:textColor">#FFFFFF</item>
+        <!-- タイトルバーの文字スタイル -->
+        <item name="android:textStyle">italic</item>
+    </style>
+
+</resources>
