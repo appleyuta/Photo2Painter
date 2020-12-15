@@ -11,7 +11,7 @@
 Androidでのネットワーク実行にTensorflowInferenceInterfaceを用いた。
 
 ## 実行例
-実行した結果の一例を以下に示す。
+実行した結果の一例を以下に示す。　　
 ![result](http://github.com/appleyuta/Photo2Painter/blob/master/exec_screen.png)
 
 ## 公開
